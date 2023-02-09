@@ -1,4 +1,4 @@
-##Rudi Heydra
+Rudi Heydra
 
 Hi! I'm a passionate software developer with a strong interest in a wide range of technologies.
 
